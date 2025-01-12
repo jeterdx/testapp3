@@ -1,3 +1,8 @@
+
+pymongo
+flask-pymongo
+python-dotenv
+openai
 Flask==2.2.2
 gunicorn
 Werkzeug==2.2.2
